@@ -1,0 +1,7 @@
+{
+  "name": "flipboard-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
